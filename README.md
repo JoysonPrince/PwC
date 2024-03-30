@@ -7,9 +7,9 @@ At PwC, our purpose is to build trust in society and solve important problems. W
 
 **Tasks:**
  ***1. Call Centre Trends Dashboard:***
-    • Create a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided.
-    • Respond to the client's request by providing a well-designed Power BI dashboard reflecting the below requested KPIs
-    • KPI's: -- Overall customer satisfaction
+    1. Create a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided.
+    2. Respond to the client's request by providing a well-designed Power BI dashboard reflecting the below requested KPIs
+    3. KPI's: -- Overall customer satisfaction
              -- Overall calls answered/abandoned
              -- Calls by time
              -- Average speed of answer
